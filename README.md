@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @saviscoding
+# Hi, I'm Sav.
+
 - 👨‍🎓 I'm currently studying MSc Computer Science at Manchester Metropolitan University
 - 👀 I’m interested in music, writing, comedy and Manchester United
 - 🌱 I’m currently learning Java, JavaScript, React, WebDev and serverless technology
