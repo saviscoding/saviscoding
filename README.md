@@ -1,8 +1,13 @@
-# Hi, I'm Sav.
+Hi 👋 I'm Daniel Savage 
+==============================  
+Computer Science Graduate 
+-------------------------  
+After deciding to change careers as an Operations Manager for a small charity, I went back to university an got a MSc Computer Science at Manchester Metropolitan University.  
 
-- 👨‍🎓 I'm currently studying MSc Computer Science at Manchester Metropolitan University
-- 👀 I’m interested in music, writing, comedy and Manchester United
-- 🌱 I’m currently learning Java, JavaScript, React, WebDev and serverless technology
+* 🌍  I'm based in Manchester, UK. 
+* ✉️  You can contact me at [hello@danielsavage.uk](mailto:hello@danielsavage.uk)
+
+
 
 
 <!---
